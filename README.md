@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 ## About Me
-#### I am a passionate learner, always exploring new technologies and concepts. Currently, I am preparing for a Data Scientist role and working on exciting projects like:
+#### I am a passionate learner, always exploring new technologies and concepts. Currently, I am working on exciting projects like:
 
 Predicting Flight Delay Using Advanced Machine Learning Algorithms ✈️
 Tumor Board Detection from HTML Pages 🏥
