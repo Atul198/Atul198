@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to My GitHub Profile
+## About Me
+#### I am a passionate learner, always exploring new technologies and concepts. Currently, I am preparing for a Data Scientist role and working on exciting projects like:
 
-<!--
-**Atul198/Atul198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Predicting Flight Delay Using Advanced Machine Learning Algorithms ✈️
+Tumor Board Detection from HTML Pages 🏥
+I am also honing my skills in real-time data analysis using Tweepy for Twitter and studying Data Science at Skillovilla.
 
-Here are some ideas to get you started:
+Interests & Hobbies <br>
+📚 Reading books <br>
+🏏 Playing cricket & 🏀 basketball <br>
+🎧 Listening to self-help podcasts & music <br>
+🚀 Exploring new technologies <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills <br>
+Machine Learning & Data Science <br>
+Python, Pandas, NumPy, Matplotlib <br>
+Tweepy for real-time data <br>
+HTML parsing & feature engineering <br><br>
+Let's Connect! <br>
+💼 www.linkedin.com/in/atulg198 | 📧 Email: goswamiatul43@gmail.com <br>
+
+Let me know if you'd like any modifications! 🚀
