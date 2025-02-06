@@ -19,5 +19,3 @@ Tweepy for real-time data <br>
 HTML parsing & feature engineering <br><br>
 Let's Connect! <br>
 💼 www.linkedin.com/in/atulg198 | 📧 Email: goswamiatul43@gmail.com <br>
-
-Let me know if you'd like any modifications! 🚀
