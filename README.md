@@ -18,4 +18,4 @@ Python, Pandas, NumPy, Matplotlib <br>
 Tweepy for real-time data <br>
 HTML parsing & feature engineering <br><br>
 Let's Connect! <br>
-💼 www.linkedin.com/in/atulg198 | 📧 Email: goswamiatul43@gmail.com <br>
+💼 www.linkedin.com/in/atulg198 | https://www.kaggle.com/atulgoswami43 | 📧 Email: goswamiatul43@gmail.com <br>
