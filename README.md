@@ -1,38 +1,27 @@
-👋 Welcome to My GitHub Profile
-About Me
+#  👋 Welcome to My GitHub Profile
 
+## About Me
 I am a motivated and detail-oriented Data Science student, passionate about learning and applying modern data-driven technologies to solve real-world problems. I am currently pursuing Data Science at UE Germany, while continuously building hands-on experience through industry-oriented projects and practical learning.
 
-My key projects include:
+### My Current key projects include:
 
-Data-Science-Project
+- Data-Science-Project
+- Ecom-data-engineering
 
-ecom-data-engineering
+### Interests & Hobbies
+- 📚 Reading books
+- 🏏 Playing cricket & 🏀 basketball
+- 🎧 Listening to self-help podcasts and music
+- 🚀 Exploring emerging technologies
 
-Interests & Hobbies
+### Technical Skills
+- Machine Learning & Data Science
+- Python (Pandas, NumPy, Matplotlib)
+- Real-time data analysis using Tweepy
+- HTML parsing & feature engineering
+- Exploratory Data Analysis (EDA) & Model Evaluation
 
-📚 Reading books
-
-🏏 Playing cricket & 🏀 basketball
-
-🎧 Listening to self-help podcasts and music
-
-🚀 Exploring emerging technologies
-
-Technical Skills
-
-Machine Learning & Data Science
-
-Python (Pandas, NumPy, Matplotlib)
-
-Real-time data analysis using Tweepy
-
-HTML parsing & feature engineering
-
-Exploratory Data Analysis (EDA) & Model Evaluation
-
-Let’s Connect
-
+### Let’s Connect
 💼 LinkedIn: https://www.linkedin.com/in/atulg198
 
 📊 Kaggle: https://www.kaggle.com/atulgoswami43
