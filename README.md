@@ -1,21 +1,42 @@
-# Hi there! 👋 Welcome to My GitHub Profile
-## About Me
-#### I am a passionate learner, always exploring new technologies and concepts. Currently, I am working on exciting projects like:
+👋 Welcome to My GitHub Profile
+About Me
 
-Predicting Flight Delay Using Advanced Machine Learning Algorithms ✈️
-Tumor Board Detection from HTML Pages 🏥
-I am also honing my skills in real-time data analysis using Tweepy for Twitter and studying Data Science at Skillovilla.
+I am a motivated and detail-oriented Data Science student, passionate about learning and applying modern data-driven technologies to solve real-world problems. I am currently pursuing Data Science at UE Germany, while continuously building hands-on experience through industry-oriented projects and practical learning.
 
-Interests & Hobbies <br>
-📚 Reading books <br>
-🏏 Playing cricket & 🏀 basketball <br>
-🎧 Listening to self-help podcasts & music <br>
-🚀 Exploring new technologies <br>
+My key projects include:
 
-Skills <br>
-Machine Learning & Data Science <br>
-Python, Pandas, NumPy, Matplotlib <br>
-Tweepy for real-time data <br>
-HTML parsing & feature engineering <br><br>
-Let's Connect! <br>
-💼 www.linkedin.com/in/atulg198 | https://www.kaggle.com/atulgoswami43 | 📧 Email: goswamiatul43@gmail.com <br>
+Data-Science-Project
+
+ecom-data-engineering
+
+Interests & Hobbies
+
+📚 Reading books
+
+🏏 Playing cricket & 🏀 basketball
+
+🎧 Listening to self-help podcasts and music
+
+🚀 Exploring emerging technologies
+
+Technical Skills
+
+Machine Learning & Data Science
+
+Python (Pandas, NumPy, Matplotlib)
+
+Real-time data analysis using Tweepy
+
+HTML parsing & feature engineering
+
+Exploratory Data Analysis (EDA) & Model Evaluation
+
+Let’s Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/atulg198
+
+📊 Kaggle: https://www.kaggle.com/atulgoswami43
+
+📧 Email: goswamiatul43@gmail.com
+
+👾 Portfolio: https://avanlo.com/atul_giri_goswami
