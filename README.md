@@ -7,6 +7,7 @@ I am a motivated and detail-oriented Data Science student, passionate about lear
 
 - Data-Science-Project
 - Ecom-data-engineering
+- Cervical Cancer Dataset
 
 ### Interests & Hobbies
 - 📚 Reading books
@@ -26,6 +27,6 @@ I am a motivated and detail-oriented Data Science student, passionate about lear
 
 📊 Kaggle: https://www.kaggle.com/atulgoswami43
 
-📧 Email: goswamiatul43@gmail.com
+📧 Email: goswamiatul4191@gmail.com
 
 👾 Portfolio: https://avanlo.com/atul_giri_goswami
